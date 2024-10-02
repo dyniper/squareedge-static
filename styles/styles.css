@@ -50,3 +50,16 @@ footer {
     margin-bottom: 0px;
     margin-top: 0px;
 }
+
+.brandsLogoContainer {
+    margin: 1.5rem;
+    display: flex;
+    gap: 32px;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.brandsLogoContainer img {
+    height: 5rem;
+}
